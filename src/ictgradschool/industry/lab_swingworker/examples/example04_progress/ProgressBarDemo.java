@@ -1,4 +1,4 @@
-package ictgradschool.industry.lab14.examples.example04_progress;
+package ictgradschool.industry.lab_swingworker.examples.example04_progress;
 
 /*
  * Copyright (c) 1995, 2008, Oracle and/or its affiliates. All rights reserved.

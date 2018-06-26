@@ -1,6 +1,5 @@
-package ictgradschool.industry.lab14.ex05;
+package ictgradschool.industry.lab_swingworker.ex05;
 
-import javax.xml.bind.annotation.adapters.XmlJavaTypeAdapter;
 import java.awt.*;
 
 /**

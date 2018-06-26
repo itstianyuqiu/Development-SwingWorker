@@ -1,4 +1,4 @@
-package ictgradschool.industry.lab14.ex05;
+package ictgradschool.industry.lab_swingworker.ex05;
 
 /**
  * Class to represent a simple rectangle.

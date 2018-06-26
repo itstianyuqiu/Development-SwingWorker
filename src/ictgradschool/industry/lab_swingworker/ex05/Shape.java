@@ -1,4 +1,4 @@
-package ictgradschool.industry.lab14.ex05;
+package ictgradschool.industry.lab_swingworker.ex05;
 
 /**
  * Abstract superclass to represent the general concept of a ictgradschool.industry.lab12.bounce.Shape. This class

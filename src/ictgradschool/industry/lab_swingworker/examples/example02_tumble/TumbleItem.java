@@ -1,4 +1,4 @@
-package ictgradschool.industry.lab14.examples.example02_tumble;
+package ictgradschool.industry.lab_swingworker.examples.example02_tumble;
 
 /*
  * Copyright (c) 1995, 2008, Oracle and/or its affiliates. All rights reserved.
@@ -192,7 +192,7 @@ public class TumbleItem extends JFrame implements ActionListener {
     protected ImageIcon loadImage(int imageNum) {
     	ImageIcon result = null;
     	
-    	String path = "/ictgradschool/industry/lab14/examples/example02_tumble/T" + imageNum + ".gif";
+    	String path = "/ictgradschool/industry/lab_swingworker/examples/example02_tumble/T" + imageNum + ".gif";
        	URL url = getClass().getResource(path);
 
 		try {

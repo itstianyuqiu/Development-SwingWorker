@@ -1,4 +1,4 @@
-package ictgradschool.industry.lab14.examples.example01_ping;
+package ictgradschool.industry.lab_swingworker.examples.example01_ping;
 
 import javax.swing.*;
 import java.awt.*;
@@ -7,7 +7,6 @@ import java.awt.event.ActionListener;
 import java.io.IOException;
 import java.net.HttpURLConnection;
 import java.net.URL;
-import java.util.concurrent.ExecutionException;
 
 /**
  * Class for a simple program to allow a user to ping a Web server for 

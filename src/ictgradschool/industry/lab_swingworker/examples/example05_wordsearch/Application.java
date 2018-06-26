@@ -1,4 +1,4 @@
-package ictgradschool.industry.lab14.examples.example05_wordsearch;
+package ictgradschool.industry.lab_swingworker.examples.example05_wordsearch;
 
 import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;

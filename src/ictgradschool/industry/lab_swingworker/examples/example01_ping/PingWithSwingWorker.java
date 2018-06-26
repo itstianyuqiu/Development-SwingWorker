@@ -1,4 +1,4 @@
-package ictgradschool.industry.lab14.examples.example01_ping;
+package ictgradschool.industry.lab_swingworker.examples.example01_ping;
 
 import java.awt.Component;
 import java.awt.GridBagConstraints;

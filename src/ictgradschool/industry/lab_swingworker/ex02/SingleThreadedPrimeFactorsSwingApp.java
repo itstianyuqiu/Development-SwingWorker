@@ -1,4 +1,4 @@
-package ictgradschool.industry.lab14.ex02;
+package ictgradschool.industry.lab_swingworker.ex02;
 
 import java.awt.BorderLayout;
 import java.awt.Cursor;

@@ -1,8 +1,7 @@
-package ictgradschool.industry.lab14.ex05;
+package ictgradschool.industry.lab_swingworker.ex05;
 
 import java.awt.*;
 import java.awt.geom.Rectangle2D;
-import java.awt.image.ImageObserver;
 
 /**
  * Implementation of the ictgradschool.industry.lab12.bounce.Painter interface that delegates drawing to a
