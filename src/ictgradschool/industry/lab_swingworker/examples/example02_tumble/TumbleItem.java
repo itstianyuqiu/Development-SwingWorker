@@ -100,7 +100,7 @@ public class TumbleItem extends JFrame implements ActionListener {
             _animator.removeAll();
             _currentFrame = -1;
             try {
-                _imgs = get();
+                _imgs = get(); //will return an array of images
             } catch (InterruptedException ignore) {}
             catch (java.util.concurrent.ExecutionException e) {
                 String why = null;
